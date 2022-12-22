@@ -6,8 +6,8 @@ Projeto desenvolvido durante o módulo de back-end do curso de desenvolvimento w
 
 Neste projeto através de queries SQL realizamos a criação, população e manipulação de um banco de dados.
 
-Para este este projeto recebemos uma tabela não normalizada, nosso objetivo era:
-> * Normalizar essa tabela, criar o schema no seu banco de dados local e populá-lo
+Para este este projeto recebemos uma tabela não normalizada e a partir dela o objetivo era:
+> * Normalizar essa tabela, criar o schema no banco de dados local e populá-lo
 > * Realizar os requisitos no banco normalizado e populado.
 
 </br>
@@ -66,7 +66,8 @@ Aprovado com 100% de desempenho em todos os requisitos
 > * A segunda coluna deve exibir a quantidade de pessoas que já escutaram aquela canção, com o alias "reproducoes"
 
 </br>
-<strong>Requisitos bônus:</strong> </br>
+<strong>Requisito bônus:</strong> </br>
+</br>
 
 11. Crie uma QUERY que altere o nome de algumas músicas seguindo alguns critérios e as ordene em ordem alfabética decrescente, a consulta deve retornar as seguintes colunas:
 > * O nome da música em seu estado normal com o alias nome_musica
@@ -84,9 +85,10 @@ Critérios:
 
 ## 🤹🏽 Habilidades Desenvolvidas:
 * Criar queries SQL
+  * Criar um banco de dados SQL
+  * Popular um banco de dados
   * Manipular informações de um banco de dados
   * Filtrar informações de um banco de dados
-
 </br>
 
 ## 🧰 Ferramentas:
