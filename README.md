@@ -14,6 +14,9 @@ Para este este projeto recebemos uma tabela não normalizada e a partir dela o o
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
+
+![image](https://user-images.githubusercontent.com/99846604/211222056-850ff06c-1ddf-4b2f-b5ce-bb6bba1f13c4.png)
+
 </details>
 
 <details>
@@ -82,6 +85,33 @@ Critérios:
 > * Trocar a palavra "SUPERSTAR" no final do nome da música por "SUPERDEV"
 </details>
 </br>
+
+## ⚙️ Execução
+
+Para executar a aplicação inicie realizando o clone deste repositório com o comando abaixo:
+
+    git clone git@github.com:joaoespacheco/Trybe-Project-23-one-for-all.git
+    
+Instale as dependências dos projeto com o comando abaixo:
+
+        npm install
+
+<details>
+   <summary><strong>Rodando a aplicação com o Docker</strong></summary> 
+  </br>
+  
+  <strong>Obs:</strong> Para rodar a aplicação dessa forma você deve ter o [Docker](https://www.docker.com/) instalado na sua máquina.
+  
+  </br>
+  
+  Na pasta do projeto, suba os containers <strong>one_for_all</strong> e <strong>one_for_all_db</strong> utilizando o docker-compose.yml. 
+  
+Utilize o comando abaixo.
+
+        docker-compose up -d
+
+</details>
+<br/>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
 * Criar queries SQL
